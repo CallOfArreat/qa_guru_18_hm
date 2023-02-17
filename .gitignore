@@ -1,0 +1,7 @@
+/.gradle
+.idea
+*.log
+.gradle
+!**/src/main/**
+!**/src/test/**
+build/
